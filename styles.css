@@ -156,8 +156,8 @@ button:hover {
 }
 
 .weather-container img {
-    width: 100px; /* Reduced size */
-    height: 100px;
+    width: 60px; /* Reduced size */
+    height: 60px;
     margin: 10px 0; /* Reduced gap */
 }
 
